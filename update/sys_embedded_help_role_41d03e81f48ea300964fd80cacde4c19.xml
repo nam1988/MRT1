@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_app2core.user" name="sn_app2core.user">c5d03e81f48ea300964fd80cacde4c17</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2018-11-26 20:08:13</sys_created_on>
