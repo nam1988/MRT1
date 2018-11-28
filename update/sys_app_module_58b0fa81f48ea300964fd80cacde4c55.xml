@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="app1core">8cb0ba81f48ea300964fd80cacde4cf1</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>app1core Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_app1core_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_app1core.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-11-26 20:07:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58b0fa81f48ea300964fd80cacde4c55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app1core Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="app1core" source="sn_app1core">08b03a81f48ea300964fd80cacde4c37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1core">08b03a81f48ea300964fd80cacde4c37</sys_scope>
+        <sys_update_name>sys_app_module_58b0fa81f48ea300964fd80cacde4c55</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-11-26 20:07:38</sys_updated_on>
+        <timeline_page/>
+        <title>app1core Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

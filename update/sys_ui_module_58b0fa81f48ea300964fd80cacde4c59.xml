@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="app1core">9cb0fa81f48ea300964fd80cacde4c57</application>
+        <filter/>
+        <name>app1core Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_app1core.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-11-26 20:07:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58b0fa81f48ea300964fd80cacde4c59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app1core Table</sys_name>
+        <sys_package display_value="app1core" source="sn_app1core">08b03a81f48ea300964fd80cacde4c37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1core">08b03a81f48ea300964fd80cacde4c37</sys_scope>
+        <sys_update_name>sys_ui_module_58b0fa81f48ea300964fd80cacde4c59</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-11-26 20:07:38</sys_updated_on>
+        <table>sn_app1core_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
